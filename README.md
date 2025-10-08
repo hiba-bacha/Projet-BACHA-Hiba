@@ -40,4 +40,4 @@ javac -d out $(find src -name "*.java")
 Exécution : 
 java -cp out app.DemoEnonce sans
 java -cp out app.DemoEnonce avec
-java -cp out appl.DemoEnonce debordement
+java -cp out app.DemoEnonce debordement
